@@ -1,0 +1,5 @@
+Ordem de precedência em operações aritiméticas:
+1° = ()
+2° = **
+3° = *, /, //, %
+4° = +, -
