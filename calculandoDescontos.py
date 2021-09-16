@@ -1,0 +1,2 @@
+precoDoProduto = float(input("Qual o preço do produto? "))
+print(f"O produto que custava R${precoDoProduto:.2f}, na promoção com desconto de 5% vai custar R${precoDoProduto - (precoDoProduto * 5 / 100):.2f}!")
