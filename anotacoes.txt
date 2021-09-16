@@ -1,5 +1,26 @@
+-------------------------------------
 Ordem de precedência em operações aritiméticas:
 1° = ()
 2° = **
 3° = *, /, //, %
 4° = +, -
+
+-------------------------------------
+
+import math (importa a biblioteca completa)
+
+from math import ceil (importa uma função da biblioteca)
+
+from math import ceil, sqrt (importa uma função da biblioteca)
+
+--------------------------------------
+
+Biblioteca math:
+  - ceil = arrendodamento para cima
+  - floor = arredondamento para baixo
+  - trunc = elimina casas decimais sem arrendodar
+  - pow = potenciação
+  - sqrt = raiz quadrada
+  - factorial = fatorial
+
+--------------------------------------
