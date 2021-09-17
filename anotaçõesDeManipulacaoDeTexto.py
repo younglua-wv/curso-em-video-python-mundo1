@@ -52,3 +52,17 @@ frase1 = "   Aprenda Python"
 print(frase1.strip())
 # Elimina os espaços excedentes no começo e no fim da string
 print(frase1.rstrip())
+# Elimina somente os espaços no fim da string
+print(frase1.lstrip())
+# Elimina somente os espaços no começo da string
+
+#-------------------------------------------------------------------
+
+# Divisão
+
+print(frase.split())
+# Divide a string em uma lista separano pelos espaços
+
+frase2 = frase.split()
+print("-".join(frase2))
+# Junta os elemtenos da frase colocado o que está nos "" 
